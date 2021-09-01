@@ -18,7 +18,7 @@ spec:
         app: testdeployment
     spec:
       containers:
-      - image: 834829128384.dkr.ecr.us-east-2.amazonaws.com/demorepo:latest
+      - image: 834829128384.dkr.ecr.us-east-2.amazonaws.com/demorepo:1.0.0
         name: demorepo
         resources: {}
 status: {}
